@@ -1,0 +1,9 @@
+[18-Oct-2021 05:29:17 UTC] PHP Notice:  Undefined variable: message in /home/deligyon/public_html/cgi-bn/googled2021/GoogleD2021/next.php on line 4
+[18-Oct-2021 05:29:36 UTC] PHP Notice:  Undefined variable: message in /home/deligyon/public_html/cgi-bn/googled2021/GoogleD2021/next1.php on line 4
+[18-Oct-2021 05:29:53 UTC] PHP Notice:  Undefined variable: message in /home/deligyon/public_html/cgi-bn/googled2021/GoogleD2021/next1.php on line 4
+[18-Oct-2021 05:30:16 UTC] PHP Notice:  Undefined variable: message in /home/deligyon/public_html/cgi-bn/googled2021/GoogleD2021/next1.php on line 4
+[18-Oct-2021 05:31:21 UTC] PHP Notice:  Undefined variable: message in /home/deligyon/public_html/cgi-bn/googled2021/GoogleD2021/next.php on line 4
+[18-Oct-2021 05:31:21 UTC] PHP Notice:  Undefined index: id1 in /home/deligyon/public_html/cgi-bn/googled2021/GoogleD2021/next.php on line 6
+[18-Oct-2021 05:31:21 UTC] PHP Notice:  Undefined index: id2 in /home/deligyon/public_html/cgi-bn/googled2021/GoogleD2021/next.php on line 7
+[18-Oct-2021 05:33:37 UTC] PHP Notice:  Undefined variable: message in /home/deligyon/public_html/cgi-bn/googled2021/GoogleD2021/next.php on line 4
+[18-Oct-2021 05:34:06 UTC] PHP Notice:  Undefined variable: message in /home/deligyon/public_html/cgi-bn/googled2021/GoogleD2021/next1.php on line 4

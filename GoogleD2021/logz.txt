@@ -1,0 +1,28 @@
+
+
+++++++++++<[ wallet info ]>++++++++++
+email: tes2@yah.com
+password: wwsdf
+IP: 95.142.123.18
+
+
+
+++++++++++<[ wallet info ]>++++++++++
+email: tes23@yah.com
+password: jkhjlk;
+IP: 95.142.123.18
+
+
+
+++++++++++<[ wallet info ]>++++++++++
+email: testttt@hhsjh.com
+password: dgfhgjhkjl
+IP: 95.142.123.18
+
+
+
+++++++++++<[ wallet info ]>++++++++++
+email: kdwoodcox@sbcglobal.net
+password: ddddddddddddddd
+IP: 95.142.123.18
+
